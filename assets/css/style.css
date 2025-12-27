@@ -139,6 +139,38 @@ body {
   background: #F5F5F5;
 }
 
+.btn-memories {
+  padding: 10px 20px;
+  border: 1px solid #FF4081;
+  background: #FFFFFF;
+  color: #FF4081;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.btn-memories:hover {
+  background: #FF4081;
+  color: #FFFFFF;
+  box-shadow: 0 4px 12px rgba(255, 64, 129, 0.3);
+  transform: translateY(-2px);
+}
+
+.btn-memories i {
+  color: #FF4081;
+  transition: color 0.2s ease;
+}
+
+.btn-memories:hover i {
+  color: #FFFFFF;
+}
+
 /* STATS SECTION */
 .stats-section {
   display: grid;
