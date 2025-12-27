@@ -1,120 +1,93 @@
-# 👨‍💻 Portfolio - Lê Hải Đăng
+# 👩‍💼 Portfolio - Trương Như Ý
 
-[![GitHub](https://img.shields.io/badge/GitHub-Fliz--none-181717?style=flat-square&logo=github)](https://github.com/Fliz-none)
-
-> Full-Stack Developer chuyên về **Laravel**, **NextJS**, **NodeJS**, **SQL Server** | Xây dựng hệ thống Enterprise, Dashboard hiệu năng cao & Automation Workflow
+> Sinh viên **Quản trị kinh doanh** tại Đại học FPT Cần Thơ | Kinh nghiệm trong Sales, Admissions, Business Development & Scientific Research
 
 ## 📋 Mục lục
 
 - [Giới thiệu](#-giới-thiệu)
-- [Công nghệ](#-công-nghệ)
-- [Các dự án](#-các-dự-án)
+- [Học vấn](#-học-vấn)
+- [Kinh nghiệm làm việc](#-kinh-nghiệm-làm-việc)
+- [Nghiên cứu khoa học](#-nghiên-cứu-khoa-học)
 - [Kỹ năng](#-kỹ-năng)
 - [Cách sử dụng](#-cách-sử-dụng)
 - [Liên hệ](#-liên-hệ)
 
 ## 🚀 Giới thiệu
 
-Xin chào! Tôi là **Lê Hải Đăng**, một Full-Stack Developer với kinh nghiệm trong việc phát triển các hệ thống enterprise, dashboard hiệu năng cao và automation workflow. Tôi luôn đam mê công nghệ và không ngừng học hỏi để nâng cao kỹ năng của mình.
+Xin chào! Tôi là **Trương Như Ý**, đã tốt nghiệp chuyên ngành Quản trị kinh doanh tại Đại học FPT Cần Thơ. 
 
-Portfolio này giới thiệu các dự án, kỹ năng và kinh nghiệm của tôi trong lĩnh vực phát triển phần mềm.
+Với kinh nghiệm đa dạng trong các lĩnh vực bán hàng, tuyển sinh, phát triển kinh doanh và nghiên cứu khoa học, tôi đã phát triển được khả năng giao tiếp, tổ chức công việc và làm việc nhóm hiệu quả.
 
-## 🛠 Công nghệ
+Tôi có mong muốn được gắn bó và phát triển trong lĩnh vực **Hành chính nhân sự**, nơi tôi có thể áp dụng những kỹ năng đã tích lũy và tiếp tục học hỏi, rèn luyện sự chủ động, khả năng tổ chức công việc và tinh thần trách nhiệm.
 
-### Backend
-- **PHP** - Laravel Framework (Eloquent ORM, Middleware, API)
-- **Node.js** - Express.js, API RESTful
-- **SQL Server** - Database Design, Stored Procedures, Optimization
-- **n8n** - Automation Workflow & Integration
+## 🎓 Học vấn
 
-### Frontend
-- **JavaScript** - Vanilla JS, ES6+
-- **HTML5 & CSS3** - Responsive Design, CSS Grid, Flexbox
-- **React** - Components, Hooks, State Management
-- **Next.js** - SSR, Static Generation, API Routes
+**Đại học FPT Cần Thơ** (2021 - 2025)
+- Chuyên ngành: Quản trị kinh doanh
+- Bằng cấp: Cử nhân Quản trị kinh doanh
 
-### Tools & DevOps
-- **Version Control** - Git, GitHub
-- **API Testing** - Postman
-- **Database Tools** - SQL Server Management Studio
-- **Deployment** - Docker (cơ bản)
+## 💼 Kinh nghiệm làm việc
 
-## ✨ Các Dự Án Nổi Bật
+### 1. SMSolution - Sales (2025)
+**Nhân viên bán hàng phần mềm quản lý doanh nghiệp**
+- Tư vấn và bán phần mềm quản lý doanh nghiệp SMSolution
+- Giới thiệu các giải pháp quản lý toàn diện: CRM, quản lý bán hàng, quản lý kho, quản lý tài chính, báo cáo
+- Thực hiện demo sản phẩm, xử lý yêu cầu khách hàng
+- Hỗ trợ doanh nghiệp tối ưu hóa quy trình vận hành
 
-### 1. Enterprise System
-Hệ thống quản lý doanh nghiệp toàn diện
-- **Tech Stack**: Laravel, SQL Server, Vue.js
-- **Features**: Authentication, Authorization, CRUD operations, Reporting
+### 2. Sapo Technology JSC - Business Development (2025)
+**Nhân viên phát triển kinh doanh**
+- Hỗ trợ tư vấn và triển khai sản phẩm chữ ký số
+- Làm việc trực tiếp tại cơ quan Thuế hướng dẫn hộ kinh doanh, doanh nghiệp đăng ký và sử dụng phần mềm
+- Phối hợp cùng Mentor hướng dẫn sử dụng phần mềm
+- Ký kết hợp đồng và chăm sóc khách hàng sau bán
 
-### 2. High-Performance Dashboard
-Dashboard analytics với biểu đồ real-time
-- **Tech Stack**: Next.js, Node.js, PostgreSQL
-- **Features**: Real-time data, Data visualization, Export reports
+### 3. FPT University & FPT Polytechnic - Admissions Collaborator (2023 - 2025)
+**Cộng tác viên tuyển sinh**
+- Tư vấn tuyển sinh trực tiếp tại các trường THPT khu vực ĐBSCL (Hậu Giang, Sóc Trăng, Cần Thơ)
+- Giới thiệu thông tin đào tạo đến 500+ học sinh
+- Thu thập dữ liệu quan tâm từ 200+ học sinh lớp 12
+- Tham gia các sự kiện hướng nghiệp, trải nghiệm khởi nghiệp, sự kiện âm nhạc
 
-### 3. Automation Workflow
-Tự động hóa quy trình nghiệp vụ
-- **Tech Stack**: n8n, API Integration, Webhooks
-- **Features**: Task automation, Email notifications, Data synchronization
+### 4. Gu22 Coffee - Service Staff / Sales Staff (2022 - 2024)
+**Nhân viên phục vụ / Nhân viên bán hàng**
+- Theo dõi tồn kho, nhập xuất nguyên liệu
+- Đối soát doanh thu cuối ca
+- Hỗ trợ quản lý dữ liệu bán hàng
+- Cập nhật sản lượng, hóa đơn và báo cáo doanh thu hằng ngày
+- Phục vụ khách hàng, pha chế đồ uống, duy trì vệ sinh cửa hàng
 
-## 🎯 Kỹ Năng
+## 🔬 Nghiên cứu khoa học
 
-### Kỹ Năng Cứng
-- ✅ Full-Stack Web Development
-- ✅ API RESTful Design & Development
-- ✅ Database Architecture & Optimization
-- ✅ Responsive Web Design
-- ✅ Automation & Workflow Integration
-- ✅ System Architecture Design
+**Đề tài:** Những yếu tố tác động đến ý định mua lại thực phẩm chức năng của gen Z ở địa bàn TP Cần Thơ
 
-### Kỹ Năng Mềm
-- ✅ Problem Solving
-- ✅ Communication
-- ✅ Team Collaboration
-- ✅ Project Management
-- ✅ Attention to Detail
+**Mô tả:**
+- Nghiên cứu toàn diện về các yếu tố ảnh hưởng đến ý định mua lại thực phẩm chức năng của thế hệ Gen Z tại Cần Thơ
+- Phân tích hành vi người tiêu dùng, xu hướng thị trường và các yếu tố nhân khẩu học
+- Áp dụng phương pháp nghiên cứu định lượng: khảo sát và phân tích thống kê
+- Nghiên cứu góp phần hiểu rõ tâm lý người tiêu dùng và cơ hội thị trường trong ngành thực phẩm chức năng
 
-## 💻 Cách Sử Dụng
+## 🎯 Kỹ năng
 
-### Xem Portfolio Offline
+### Kỹ năng chuyên môn
+- ✅ Tin học văn phòng (Microsoft Office, Excel, PowerPoint)
+- ✅ Ngoại ngữ (Tiếng Anh)
+- ✅ Quản lý dữ liệu và báo cáo
+- ✅ Tư vấn và bán hàng
+- ✅ Nghiên cứu khoa học và phân tích dữ liệu
 
-1. Clone repository này:
-```bash
-git clone https://github.com/Fliz-none/portfolio.git
-cd portfolio
-```
+### Kỹ năng mềm
+- ✅ Làm việc nhóm hiệu quả
+- ✅ Giao tiếp tốt
+- ✅ Học hỏi nhanh
+- ✅ Chủ động trong công việc
+- ✅ Tổ chức và quản lý công việc
+- ✅ Tinh thần trách nhiệm cao
 
-2. Mở file `index.html` trong trình duyệt:
-```bash
-# Windows
-start index.html
-
-# macOS
-open index.html
-
-# Linux
-xdg-open index.html
-```
-
-Hoặc sử dụng Live Server extension trong VS Code để có trải nghiệm tốt hơn.
-
-### Yêu cầu
-- Trình duyệt hiện đại (Chrome, Firefox, Safari, Edge)
-- Kết nối Internet (để load Font Awesome icons)
-
-### Thêm interactivity
-Cập nhật `script.js` để:
-- Thêm các tính năng mới
-- Xử lý form
-- Thêm animations
-
-## 📞 Liên Hệ
-
-Hãy liên lạc với tôi qua:
-
-- 📧 **Email**: [lhd4388@gmail.com](mailto:lhd4388@gmail.com)
-- 📱 **Phone**: [0942.852.755](tel:0942852755)
-- 💼 **GitHub**: [@Fliz-none](https://github.com/Fliz-none)
+- 📧 **Email**: [ynhutruong2712@gmail.com](mailto:ynhutruong2712@gmail.com)
+- 📱 **Phone**: [0329034703](tel:0329034703)
+- 📍 **Địa chỉ**: Nguyễn Văn Cừ, Tân An, Cần Thơ
 
 **Cảm ơn bạn đã ghé thăm portfolio của tôi!** 🙏
 
-Nếu bạn có bất kỳ câu hỏi, đề xuất hoặc cơ hội hợp tác, vui lòng liên hệ với tôi.
+Nếu bạn có bất kỳ câu hỏi, đề xuất hoặc cơ hội hợp tác, làm việc, vui lòng liên hệ với tôi qua form liên hệ trên website hoặc email trực tiếp.
